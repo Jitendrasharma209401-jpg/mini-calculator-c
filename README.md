@@ -1,6 +1,6 @@
 # Mini Calculator in C
 
-A menu-driven calculator project developed using C programming.
+A simple calculator project developed using C programming.
 
 ## Features
 
@@ -8,28 +8,34 @@ A menu-driven calculator project developed using C programming.
 - Subtraction
 - Multiplication
 - Division
-- Modulus (%)
-- Power
-- Square Root
-- Calculation History
-- Continuous Menu using Loop
+- Menu-driven program
+- Continuous calculation using loop
 
 ## Technologies Used
 
 - C Programming
-- GCC Compiler
 - VS Code
+- GCC Compiler
 
 ## How to Run
 
 Compile the program using:
 
-gcc calculator.c -o calculator -lm
+gcc calculator.c -o calculator
 
 Then run:
 
 ./calculator
 
+## Concepts Used
+
+- Variables
+- Input and Output
+- Switch-Case
+- Do-While Loop
+- If-Else
+- Arithmetic Operators
+
 ## Project Purpose
 
-This project was created to practice C programming concepts such as switch-case, loops, arrays, conditions, mathematical functions, and user input.
+This project was created to practice basic C programming concepts and build a simple menu-driven calculator.
